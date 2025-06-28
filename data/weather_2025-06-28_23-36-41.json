@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 69.2163,
+        "lat": 41.2646
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 27.97,
+        "feels_like": 26.99,
+        "temp_min": 27.97,
+        "temp_max": 27.97,
+        "pressure": 1004,
+        "humidity": 28,
+        "sea_level": 1004,
+        "grnd_level": 956
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.03,
+        "deg": 0
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1751135693,
+    "sys": {
+        "type": 1,
+        "id": 9016,
+        "country": "UZ",
+        "sunrise": 1751068339,
+        "sunset": 1751122812
+    },
+    "timezone": 18000,
+    "id": 1512569,
+    "name": "Tashkent",
+    "cod": 200
+}
