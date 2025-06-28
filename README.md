@@ -1,3 +1,5 @@
+<img src="profile.png" alt="Aziz photo" width="150" style="border-radius: 50%">
+
 # 🌤 Weather ETL Project
 
 This project collects weather data from OpenWeather API, stores it in SQLite, performs basic analysis, and visualizes temperature trends.
