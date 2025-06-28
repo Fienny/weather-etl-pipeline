@@ -1,4 +1,4 @@
-<img src="profile.png" alt="Aziz photo" width="150" style="border-radius: 50%">
+<img src="profile.png" alt="Aziz photo" width="720">
 
 # 🌤 Weather ETL Project
 
